@@ -1,1 +1,3 @@
 # stock_trend_analysis
+
+The overall aim of this thesis is to develop a model to analyze the stock movement using tweets, news, and historic stock price. This is a comparative study among different constraints. First, a hybrid model will be developed to predict stock movement using sentiment analysis and historic prices. The primary aim of this thesis is to evaluate and compare the efficiency of different models. This work will focus on stocks from three different domains, which will allow us to analyze the influence of news and tweets on different sectors. Two separate models will also be developed, one with news data and the other with tweets. This will help to analyze the influence of stocks and news on stock prices.
